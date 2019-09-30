@@ -31,3 +31,6 @@ hs_err_pid*
 .idea/
 target/
 *.iml
+
+demo.gif
+jvm-rasp-1.0-SNAPSHOT-jar-with-dependencies.jar

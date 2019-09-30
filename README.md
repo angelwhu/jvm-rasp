@@ -28,6 +28,7 @@
 ```shell script
 ./run.sh
 ```
+![](./images/demo.mp4)
 ![](./images/jvm-rasp_detect_fastjson_attack.jpg)  
 
 ## 0x03 问题  
