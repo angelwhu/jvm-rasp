@@ -24,15 +24,9 @@
 - log日志在~/logs/sandbox/ 
 - 运行前在`AlarmSendMailThread`类配置邮箱pop3密码和管理员邮箱。
 - 参考我写`run.sh`脚本运行。  
-- 使用springboot框架的ddctf题目，测试检测fastjson漏洞成功。
-```shell script
-./run.sh
-```  
-
-<video src="./images/demo.mp4" controls="controls">
-Your browser does not support the video tag.
-</video>  
-
+- 使用springboot框架，测试检测fastjson漏洞成功。  
+示例视频请看: `./images/demo.mp4`   
+邮件收到的报警信息:  
 ![](./images/jvm-rasp_detect_fastjson_attack.jpg)  
 
 ## 0x03 问题  
