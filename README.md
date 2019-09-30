@@ -27,8 +27,12 @@
 - 使用springboot框架的ddctf题目，测试检测fastjson漏洞成功。
 ```shell script
 ./run.sh
-```
-![](./images/demo.mp4)
+```  
+
+<video src="./images/demo.mp4" controls="controls">
+Your browser does not support the video tag.
+</video>  
+
 ![](./images/jvm-rasp_detect_fastjson_attack.jpg)  
 
 ## 0x03 问题  
