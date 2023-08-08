@@ -26,11 +26,10 @@
 - 参考我写`run.sh`脚本运行。  
 - 使用springboot框架，测试检测fastjson漏洞成功。   
 
-- 拦截Demo视频:  
+- 拦截demo视频:
 
-<video id="video" controls="" preload="none" poster="演示">
-      <source id="mp4" src="./images/demo.mp4" type="video/mp4">
-</videos>
+https://github.com/angelwhu/jvm-rasp/assets/11895187/abcd7caf-471d-491b-9e67-daee00c0deb8
+
 
 邮件收到的报警信息: 
 ![](./images/jvm-rasp_detect_fastjson_attack.jpg)  
