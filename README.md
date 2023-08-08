@@ -31,7 +31,7 @@
 https://github.com/angelwhu/jvm-rasp/assets/11895187/abcd7caf-471d-491b-9e67-daee00c0deb8
 
 
-邮件收到的报警信息: 
+- 邮件收到的报警信息: 
 ![](./images/jvm-rasp_detect_fastjson_attack.jpg)  
 
 ## 0x03 问题  
